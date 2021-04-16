@@ -15,7 +15,7 @@ body {
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* added position sticky */
 .header h1 {
   display: inline-block;
   font-size: 48px;
